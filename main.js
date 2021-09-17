@@ -1,7 +1,7 @@
 const fs = require("fs");
 const fetch = require('node-fetch')
 const api = require('namemc').lookupName
-var text = fs.readFileSync("./testWords.txt").toString('utf-8');
+var text = fs.readFileSync("./words.txt").toString('utf-8');
 var textByLine = text.split("\n")
 
 const test = async function (user) {

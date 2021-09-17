@@ -1,2 +1,7 @@
 node_modules
 .DS_Store
+words.txt
+names.txt
+wordsUnfiltered.txt
+test.js
+testWords.txt
