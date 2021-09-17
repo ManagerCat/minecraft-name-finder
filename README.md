@@ -11,6 +11,7 @@ I haven't tested the exact amount of words yet but there is a limit with the API
 Most errors that will be seen is either because of ratelimits or because of the wifi limiting the amount of packets itself
 
 # Usage
+`npm install` to install dependencies
 
 `npm run filter` to filter out words from wordUnfiltered.txt, outputs to words.txt
 
