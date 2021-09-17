@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "namemc": "^1.8.16",
+    "node-fetch": "^2.6.2"
+  },
+  "name": "mcnamefinder",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "filter": "node namefilter.js",
+    "start": "node main.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
