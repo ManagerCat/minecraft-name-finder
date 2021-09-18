@@ -12,7 +12,9 @@ Most errors that will be seen is either because of ratelimits or because of the 
 
 # Installation
 `git clone https://github.com/ManagerCat/minecraft-name-finder/`
+
 `cd minecraft-name-finder`
+
 `npm install`
 
 # Usage
