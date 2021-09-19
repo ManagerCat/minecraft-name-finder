@@ -8,7 +8,7 @@ I haven't tested the exact amount of words yet but there is a limit with the API
 
 # Errors
 
-Most errors that will be seen is either because of ratelimits or because of the wifi limiting the amount of packets itself
+Most errors that will be seen is either because of ratelimits or because of the network limiting the amount of packets itself
 
 # Installation
 `git clone https://github.com/ManagerCat/minecraft-name-finder/`
